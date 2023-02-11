@@ -11,7 +11,7 @@ public class Biblioteca {
         try (Scanner input = new Scanner(System.in)) {
             menuLoop: while(true)
             {
-                System.out.println("--------------------------- SEJA BEM-VINDO---------------------------\n");
+                System.out.println("--------------------------- SEJA BEM-VINDO--------------------------\n");
                 System.out.println("                                MENU\n");
                 System.out.println("1 - Criar Usuário");
                 System.out.println("2 - Cadastrar Livros");
